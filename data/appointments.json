@@ -1,0 +1,24 @@
+[
+  {
+    "id": "apt-1790871088134",
+    "name": "Page Whisperer",
+    "email": "pagewhisperer7@gmail.com",
+    "date": "2026-10-02",
+    "time": "10:00 AM EST",
+    "service": "AI Video Creation & Direction",
+    "notes": "A brief discussion on how the project should go",
+    "status": "pending",
+    "createdAt": "2026-10-01T16:11:28.134Z"
+  },
+  {
+    "id": "apt-1790870585352",
+    "name": "Test Client",
+    "email": "client@test.com",
+    "date": "2026-10-15",
+    "time": "02:30 PM EST",
+    "service": "AI Video Creation & Direction",
+    "notes": "Test booking for automated email notification",
+    "status": "pending",
+    "createdAt": "2026-10-01T16:03:05.352Z"
+  }
+]

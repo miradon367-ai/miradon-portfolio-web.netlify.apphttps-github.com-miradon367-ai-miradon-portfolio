@@ -1,0 +1,72 @@
+[
+  {
+    "category": "Generative AI & Video",
+    "items": [
+      {
+        "name": "Midjourney v6",
+        "role": "Photorealistic Visuals & Character Concepting",
+        "badge": "AI Imagery"
+      },
+      {
+        "name": "Runway Gen-3 Alpha",
+        "role": "Cinematic Motion & Video Generation",
+        "badge": "AI Video"
+      },
+      {
+        "name": "Luma Dream Machine",
+        "role": "Complex Camera Dynamics & Physics",
+        "badge": "AI Video"
+      },
+      {
+        "name": "ElevenLabs",
+        "role": "AI Voice Synthesis & Emotion Pacing",
+        "badge": "AI Audio"
+      },
+      {
+        "name": "Topaz Video AI",
+        "role": "Neural 4K Upscaling & Frame Interpolation",
+        "badge": "Mastering"
+      },
+      {
+        "name": "DaVinci Resolve",
+        "role": "Color Grading, Foley & Video Editing",
+        "badge": "Post-Production"
+      }
+    ]
+  },
+  {
+    "category": "Full-Stack Development & Design",
+    "items": [
+      {
+        "name": "Next.js 14/15",
+        "role": "App Router, SSR, SSG & Server Actions",
+        "badge": "Framework"
+      },
+      {
+        "name": "TypeScript",
+        "role": "Type-Safe Application Architecture",
+        "badge": "Language"
+      },
+      {
+        "name": "Tailwind CSS",
+        "role": "Futuristic UI Systems & Responsive Layouts",
+        "badge": "Styling"
+      },
+      {
+        "name": "Framer Motion",
+        "role": "60fps Micro-Interactions & Gestures",
+        "badge": "Motion"
+      },
+      {
+        "name": "Python & Node.js",
+        "role": "Backend APIs, Automations & AI Pipelines",
+        "badge": "Backend"
+      },
+      {
+        "name": "Figma",
+        "role": "UI/UX Prototyping & Visual Design",
+        "badge": "Design"
+      }
+    ]
+  }
+]

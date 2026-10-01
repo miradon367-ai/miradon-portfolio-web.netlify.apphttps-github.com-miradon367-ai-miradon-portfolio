@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ai-video-creation",
+    "title": "AI Video Creation & Direction",
+    "icon": "Video",
+    "tagline": "Cinematic AI visuals, trailers, commercials & branded content",
+    "description": "End-to-end generative AI video production. From cinematic movie trailers and commercials to product showcases and character-consistent storytelling, leveraging cutting-edge AI pipelines with professional post-production.",
+    "deliverables": [
+      "Cinematic AI Movie Trailers & Commercials",
+      "Character Consistency & Multi-Scene Continuity",
+      "Dynamic Camera Motion & Atmospheric Lighting",
+      "Custom AI Voice Synthesis & Dialogue Tuning",
+      "Sound Design, Foley & Orchestral Pacing",
+      "4K Upscaling & Professional Color Grading"
+    ],
+    "tools": [
+      "Runway Gen-3",
+      "Midjourney v6",
+      "Luma Dream Machine",
+      "ElevenLabs",
+      "DaVinci Resolve"
+    ]
+  },
+  {
+    "id": "website-design-development",
+    "title": "Modern Website Design & Development",
+    "icon": "Layout",
+    "tagline": "High-performance responsive web applications & landing pages",
+    "description": "Modern, sleek, and high-converting websites crafted for performance, usability, and visual distinction. Full-stack development with Next.js, TypeScript, and responsive styling tailored to brands, businesses, and creators.",
+    "deliverables": [
+      "Custom Next.js & React Web Applications",
+      "High-Converting Landing Pages & Redesigns",
+      "Interactive Product Showcases & Portfolios",
+      "100% Mobile & Ultra-wide Responsive Scaling",
+      "Micro-Interactions & Fluid Animations",
+      "SEO, Core Web Vitals & Speed Optimization"
+    ],
+    "tools": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Figma",
+      "Netlify"
+    ]
+  },
+  {
+    "id": "ai-development-solutions",
+    "title": "AI Development & Automations",
+    "icon": "Cpu",
+    "tagline": "Intelligent AI software solutions & workflow integrations",
+    "description": "Developing intelligent software, AI-powered applications, and custom generative AI pipelines to automate complex tasks, generate content at scale, and empower digital products with modern intelligence.",
+    "deliverables": [
+      "LLM & Generative Model Integrations",
+      "Custom AI Video & Image Generation Pipelines",
+      "Intelligent Chatbots & Workflow Automations",
+      "Full-Stack API Design & Backend Architecture",
+      "State Management & Real-time Integrations"
+    ],
+    "tools": [
+      "Python",
+      "Node.js",
+      "OpenAI / Anthropic APIs",
+      "Next.js Route Handlers",
+      "REST APIs"
+    ]
+  },
+  {
+    "id": "scriptwriting-storyboarding",
+    "title": "Scriptwriting & Scene Direction",
+    "icon": "PenTool",
+    "tagline": "Compelling narrative architecture and visual storyboarding",
+    "description": "Crafting gripping narratives, scene-by-scene storyboards, and high-converting commercial copy specifically structured for generative video pacing, visual prompts, and cinematic immersion.",
+    "deliverables": [
+      "Cinematic Trailer & Short Film Scriptwriting",
+      "Scene-by-Scene Visual Prompt Architecture",
+      "Pacing & Storyboard Flow Engineering",
+      "Commercial Copywriting & Pitch Concept Decks"
+    ],
+    "tools": [
+      "Claude 3.5 Sonnet",
+      "Prompt Architecture",
+      "Miro",
+      "Final Draft"
+    ]
+  }
+]

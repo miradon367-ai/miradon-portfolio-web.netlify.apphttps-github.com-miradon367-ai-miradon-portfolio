@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Film Director & Creative Producer",
+    "role": "Independent Film Studio",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=200&auto=format&fit=crop",
+    "quote": "A visually focused project that combines strong creative direction with clean execution and attention to detail. The cinematic atmosphere and character consistency achieved were extraordinary.",
+    "projectReferenced": "The Mad Preacher",
+    "rating": 5
+  },
+  {
+    "id": "2",
+    "name": "Engineering Lead",
+    "role": "Software & Digital Products",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&auto=format&fit=crop",
+    "quote": "The project demonstrates a clean, functional, and user-focused approach to software development, with attention to both design and performance. Fast, intuitive, and expertly built.",
+    "projectReferenced": "Software Game & Interactive Apps",
+    "rating": 5
+  },
+  {
+    "id": "3",
+    "name": "Brand Strategy Lead",
+    "role": "Automotive & Lifestyle Agency",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=200&auto=format&fit=crop",
+    "quote": "Miradon effortlessly bridged cutting-edge AI creative concepts with high-converting web architecture. The turnaround time and polish exceeded our highest expectations.",
+    "projectReferenced": "Aura Motor Showcase",
+    "rating": 5
+  }
+]

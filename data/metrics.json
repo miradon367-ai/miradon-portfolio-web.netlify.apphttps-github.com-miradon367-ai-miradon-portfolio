@@ -1,0 +1,26 @@
+[
+  {
+    "id": "scenes",
+    "value": "7+",
+    "label": "Consistent AI Scenes",
+    "context": "Developed multiple cinematic scenes with consistent characters, environments, lighting, and visual storytelling."
+  },
+  {
+    "id": "responsive",
+    "value": "100%",
+    "label": "Responsive Compatibility",
+    "context": "Designed to provide a consistent, fluid experience across desktop, tablet, and mobile devices."
+  },
+  {
+    "id": "architecture",
+    "value": "Full-Stack",
+    "label": "Development Approach",
+    "context": "Engineered across frontend, backend API routes, content layer, and core interactive functionality."
+  },
+  {
+    "id": "features",
+    "value": "5+",
+    "label": "Core Product Features",
+    "context": "Implemented essential features focused on usability, speed, conversion, and intuitive user experiences."
+  }
+]
